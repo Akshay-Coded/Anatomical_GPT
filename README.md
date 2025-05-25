@@ -114,6 +114,12 @@ This section outlines the step-by-step flow that powers the RAG-based Anatomical
 3. **Display**: Answer is shown in the interface, along with optional source documents for transparency.
 
 ---
+## Demo images:
+![Demo of Anatomical GPT UI](assets/demo1.png)
+![Demo of Anatomical GPT UI](assets/demo2.png)
+![Demo of Anatomical GPT UI](assets/demo3.png)
+![Demo of Anatomical GPT UI](assets/demo4.png)
+---
 
 ### ✅ Benefits
 
